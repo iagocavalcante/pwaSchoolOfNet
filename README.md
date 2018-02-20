@@ -1,4 +1,4 @@
-# i9amazonpwa
+# pwaSchoolOfNet
 
 > A Vue.js project
 
