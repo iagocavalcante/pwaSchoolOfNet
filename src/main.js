@@ -6,8 +6,19 @@ import router from './router'
 import Vuetify from 'vuetify'
 import 'vuetify/dist/vuetify.min.css'
 import Vuefire from 'vuefire'
-import Firebase from 'firebase'
+import firebase from 'firebase'
 import push from './push'
+
+let config = {
+  apiKey: 'AIzaSyBcfdE58drFZoUemF2K12S_-wGwqWYS6vQ',
+  authDomain: 'consultorarapido.firebaseapp.com',
+  databaseURL: 'https://consultorarapido.firebaseio.com',
+  projectId: 'consultorarapido',
+  storageBucket: 'consultorarapido.appspot.com',
+  messagingSenderId: '759777202783'
+}
+
+firebase.initializeApp(config)
 
 push()
 
