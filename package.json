@@ -52,7 +52,7 @@
     "friendly-errors-webpack-plugin": "1.7.0",
     "html-webpack-plugin": "2.30.1",
     "http-proxy-middleware": "0.19.1",
-    "webpack-bundle-analyzer": "2.13.1",
+    "webpack-bundle-analyzer": "3.3.2",
     "cross-env": "5.2.0",
     "karma": "1.7.1",
     "karma-coverage": "1.1.2",
