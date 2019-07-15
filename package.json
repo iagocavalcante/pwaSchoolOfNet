@@ -78,7 +78,7 @@
     "shelljs": "0.8.3",
     "opn": "5.5.0",
     "optimize-css-assets-webpack-plugin": "5.0.3",
-    "ora": "1.4.0",
+    "ora": "3.4.0",
     "rimraf": "2.6.3",
     "url-loader": "0.6.2",
     "vue-loader": "13.7.3",
