@@ -71,7 +71,7 @@
     "babel-plugin-istanbul": "5.1.4",
     "phantomjs-prebuilt": "2.1.16",
     "chromedriver": "75.1.0",
-    "cross-spawn": "5.1.0",
+    "cross-spawn": "6.0.5",
     "nightwatch": "0.9.21",
     "selenium-server": "3.141.59",
     "semver": "5.7.0",
