@@ -67,7 +67,7 @@
     "chai": "4.2.0",
     "sinon": "4.5.0",
     "sinon-chai": "2.14.0",
-    "inject-loader": "3.0.1",
+    "inject-loader": "4.0.1",
     "babel-plugin-istanbul": "5.1.4",
     "phantomjs-prebuilt": "2.1.16",
     "chromedriver": "75.1.0",
