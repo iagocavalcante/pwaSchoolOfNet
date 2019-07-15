@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "babel-polyfill": "6.26.0",
-    "firebase": "4.13.1",
+    "firebase": "6.3.0",
     "vue": "2.6.10",
     "vue-router": "3.0.7",
     "vuefire": "1.4.5",
