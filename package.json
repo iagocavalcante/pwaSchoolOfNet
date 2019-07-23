@@ -74,7 +74,7 @@
     "cross-spawn": "6.0.5",
     "nightwatch": "1.1.13",
     "selenium-server": "3.141.59",
-    "semver": "6.2.0",
+    "semver": "6.3.0",
     "shelljs": "0.8.3",
     "opn": "5.5.0",
     "optimize-css-assets-webpack-plugin": "5.0.3",
