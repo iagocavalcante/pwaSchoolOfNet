@@ -18,7 +18,7 @@
     "firebase": "6.3.4",
     "vue": "2.6.10",
     "vue-router": "3.0.7",
-    "vuefire": "2.1.0",
+    "vuefire": "2.1.1",
     "vuetify": "2.0.4"
   },
   "devDependencies": {
