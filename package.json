@@ -70,7 +70,7 @@
     "inject-loader": "4.0.1",
     "babel-plugin-istanbul": "5.2.0",
     "phantomjs-prebuilt": "2.1.16",
-    "chromedriver": "76.0.1",
+    "chromedriver": "77.0.0",
     "cross-spawn": "7.0.0",
     "nightwatch": "1.2.2",
     "selenium-server": "3.141.59",
